@@ -1,0 +1,39 @@
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\bin\Debug\Clinic System.exe.config
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\bin\Debug\Clinic System.exe
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\bin\Debug\Clinic System.pdb
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\obj\Debug\Clinic System.csprojResolveAssemblyReference.cache
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\obj\Debug\Clinic_System.Form1.resources
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\obj\Debug\Clinic_System.Properties.Resources.resources
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\obj\Debug\Clinic System.csproj.GenerateResource.Cache
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\obj\Debug\Clinic System.exe
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\obj\Debug\Clinic System.pdb
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\obj\Debug\Clinic_System.Form2.resources
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\obj\Debug\Clinic_System.Form3.resources
+c:\users\smart computer\documents\visual studio 2013\Projects\Clinic System\Clinic System\obj\Debug\Clinic_System.Form4.resources
+C:\Users\Smart Computer\Documents\Visual Studio 2013\Projects\Clinic System\Clinic System\obj\Debug\Clinic_System.Form5.resources
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\bin\Debug\Clinic System.exe.config
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\obj\Debug\Clinic System.exe
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\obj\Debug\Clinic System.pdb
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\obj\Debug\Clinic System.csprojResolveAssemblyReference.cache
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Form1.resources
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Form2.resources
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Form3.resources
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Form4.resources
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Form5.resources
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Properties.Resources.resources
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\obj\Debug\Clinic System.csproj.GenerateResource.Cache
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\bin\Debug\Clinic System.exe
+C:\Users\Smart Computer\Desktop\IS Project\Clinic System\Clinic System\bin\Debug\Clinic System.pdb
+F:\university\year 2\First semester\IS Project\Clinic System\Clinic System\bin\Debug\Clinic System.exe.config
+F:\university\year 2\First semester\IS Project\Clinic System\Clinic System\obj\Debug\Clinic System.exe
+F:\university\year 2\First semester\IS Project\Clinic System\Clinic System\obj\Debug\Clinic System.pdb
+F:\university\Year 2\First semester\IS Project\Clinic System\Clinic System\bin\Debug\Clinic System.exe
+F:\university\Year 2\First semester\IS Project\Clinic System\Clinic System\bin\Debug\Clinic System.pdb
+F:\university\Year 2\First semester\IS Project\Clinic System\Clinic System\obj\Debug\Clinic System.csprojResolveAssemblyReference.cache
+F:\university\Year 2\First semester\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Form1.resources
+F:\university\Year 2\First semester\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Form2.resources
+F:\university\Year 2\First semester\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Form3.resources
+F:\university\Year 2\First semester\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Form4.resources
+F:\university\Year 2\First semester\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Form5.resources
+F:\university\Year 2\First semester\IS Project\Clinic System\Clinic System\obj\Debug\Clinic_System.Properties.Resources.resources
+F:\university\Year 2\First semester\IS Project\Clinic System\Clinic System\obj\Debug\Clinic System.csproj.GenerateResource.Cache
